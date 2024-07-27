@@ -1,0 +1,7 @@
+:root {
+    --accent1-light: hsl(0, 0%, 100%); /* blanc */
+    --accent1-dark: hsl(0, 0%, 0%);    /* noir */
+    --accent1-light: hsla(0, 0%, 100%, 0.4); /* blanc avec transparence */
+    --accent2-light: hsl(0, 0%, 100%); /* blanc */
+    --accent2-dark: hsl(0, 0%, 0%);    /* noir */
+  }
