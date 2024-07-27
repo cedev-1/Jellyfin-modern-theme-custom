@@ -26,10 +26,10 @@ h4 {
 }
 .adminDrawerLogo img,
 imgLogoIcon {
-  content: url(https://forum.level1techs.com/uploads/default/optimized/4X/f/d/1/fd1f720fe1794419b7ae052f5230543db8789e12_2_1024x321.png) !important;
+  content: url(https://cdn.jsdelivr.net/gh/MakD/zombie-release@main/logo/jellyfin-logo-light.png) !important;
 }
 .pageTitleWithLogo {
-  background-image: url(https://forum.level1techs.com/uploads/default/optimized/4X/f/d/1/fd1f720fe1794419b7ae052f5230543db8789e12_2_1024x321.png) !important;
+  background-image: url(https://cdn.jsdelivr.net/gh/MakD/zombie-release@main/logo/jellyfin-logo-light.png) !important;
 }
 @media only screen and (max-device-width: 767px) {
   .featurediframe {
